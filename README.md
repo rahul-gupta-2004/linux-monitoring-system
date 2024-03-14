@@ -339,7 +339,7 @@ GET https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}
 #### Update System Data
 
 ```http
-  GET https://your-project-id.firebaseio.com/data.json
+GET https://your-project-id.firebaseio.com/data.json
 ```
 
 | Parameter | Type     | Description                                   |
